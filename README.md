@@ -1,1 +1,1 @@
-# takashi-amano-tribute
+A tribute page for the late aquascaper, Takashi Amano. This contains basic information about his life, as well as a small gallery of his works
